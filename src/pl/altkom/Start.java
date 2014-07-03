@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Start {
 
 	public static void main(String[] args) {
-		String odczyt = "fjg";
+		String odczyt = "fjgd";
 		
 		Scanner odczyt1 = new Scanner(System.in);
 		
